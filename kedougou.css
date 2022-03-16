@@ -1,0 +1,28 @@
+body {
+    background-image:url(iceland-5116875_960_720.jpg);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: center;
+  
+}
+body, html {  height: 100%;margin: 0;}
+         .bg {
+         /* The image used */
+         background-image: url(iceland-5116875_960_720.jpg);
+         /* Full height */
+         height: 100%;
+         /* Center et dimensionnez l'image bien */
+         background-position:center;
+         background-repeat: repeat;
+         background-size:cover;  
+        background-attachment: fixed;}
+        
+         
+h1{
+    color: white;
+}    
+div{
+    color: white;
+    font-size: x-large;
+    font-style: italic;
+}      

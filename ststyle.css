@@ -1,0 +1,26 @@
+body {
+    background-image:url(c9b3f2bc-2089-4b7d-be39-794e8b299997.jpg.webp);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: center;
+  
+}
+body, html {  height: 100%;margin: 0;}
+         .bg {
+         /* The image used */
+         background-image: url(c9b3f2bc-2089-4b7d-be39-794e8b299997.jpg.webp);
+         /* Full height */
+         height: 100%;
+         /* Center et dimensionnez l'image bien */
+         background-position:center;
+         background-repeat: repeat;
+         background-size:cover;  }
+h1{
+    color: white;
+}    
+div{
+    color: white;
+    font-size: x-large;
+    font-style: italic;
+}     
+         
